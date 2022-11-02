@@ -1,7 +1,9 @@
 # This is the first header for file b
 
 <a name="testa"></a>
-[link to end](#testA)
+[test link to end](#testA)
+[link to end](#end)
+<a name="start"></a>
 
 a bunch of content
 
@@ -171,5 +173,7 @@ This is content at the bottom
 
 This is content at the bottom
 
-[link to start](#testa)
+[test link to start](#testa)
+[link to start](#start)
 <a name="testA"></a>
+<a name="end"></a>
