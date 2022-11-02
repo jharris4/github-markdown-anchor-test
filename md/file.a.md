@@ -16,6 +16,8 @@ a bunch of content
 
 [Test Link to file a](#x4dodelAx002ex70ackage-package)
 
+[Link to dotted anchor](#dot.separated)
+
 <b>other</b>
 
 [Link to file b first header](./file.b.md#this-is-the-first-header-for-file-b)
@@ -143,6 +145,8 @@ This is content at the bottom
 This is content at the bottom
 
 This is content at the bottom
+
+<a name="dot.separated"></a>
 
 This is content at the bottom
 
