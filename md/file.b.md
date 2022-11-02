@@ -76,6 +76,10 @@ And some more content down below
 #### &#x4d;odelA&#x002e;&#x70;ackage package
 -->
 
+[Test In](#test-in)
+[Test Before](#test-before)
+[Test After](#test-after)
+
 #### &#x4d;odelB&#x002e;&#x70;ackage package
 
 real test content
