@@ -12,11 +12,15 @@ a bunch of content
 
 [Link to file b second header](#this-is-the-second-header-for-file-b)
 
+[Link to file b third header](#this-is-the-third-header-for-file-b)
+
 <b>other</b>
 
 [Link to file a first header](./file.a.md#this-is-the-first-header-for-file-a)
 
 [Link to file a second header](./file.a.md#this-is-the-second-header-for-file-a)
+
+[Link to file a third header](./file.a.md#this-is-the-third-header-for-file-a)
 
 and a little more content
 
@@ -69,3 +73,69 @@ And some more content down below
 And some more content down below
 
 And some more content down below
+
+### This is the third header for file b
+
+This is content at the bottom
+
+This is content at the bottom
+
+This is content at the bottom
+
+This is content at the bottom
+
+This is content at the bottom
+
+This is content at the bottom
+
+This is content at the bottom
+
+This is content at the bottom
+
+This is content at the bottom
+
+This is content at the bottom
+
+This is content at the bottom
+
+This is content at the bottom
+
+This is content at the bottom
+
+This is content at the bottom
+
+This is content at the bottom
+
+This is content at the bottom
+
+This is content at the bottom
+
+This is content at the bottom
+
+This is content at the bottom
+
+This is content at the bottom
+
+This is content at the bottom
+
+This is content at the bottom
+
+This is content at the bottom
+
+This is content at the bottom
+
+This is content at the bottom
+
+This is content at the bottom
+
+This is content at the bottom
+
+This is content at the bottom
+
+This is content at the bottom
+
+This is content at the bottom
+
+This is content at the bottom
+
+This is content at the bottom
