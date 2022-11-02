@@ -1,5 +1,8 @@
 # This is the first header for file b
 
+<a name="testa">
+[link to end](#testA)
+
 a bunch of content
 
 a bunch of content
@@ -167,3 +170,6 @@ This is content at the bottom
 This is content at the bottom
 
 This is content at the bottom
+
+[link to start](#testa)
+<a name="testA">
