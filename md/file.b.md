@@ -146,9 +146,17 @@ This is content at the bottom
 
 This is content at the bottom
 
-This is content at the bottom
+## <a name="test-in"></a> Heading with anchor in it
 
 This is content at the bottom
+
+<a name="test-before"></a>
+## Heading with anchor before
+
+This is content at the bottom
+
+## Heading with anchor after
+<a name="test-after"></a>
 
 This is content at the bottom
 
