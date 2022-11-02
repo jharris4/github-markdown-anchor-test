@@ -14,6 +14,8 @@ a bunch of content
 
 [Link to file a third header](#this-is-the-third-header-for-file-a)
 
+[Test Link to file a](#x4dodelAx002ex70ackage-package)
+
 <b>other</b>
 
 [Link to file b first header](./file.b.md#this-is-the-first-header-for-file-b)
@@ -21,6 +23,8 @@ a bunch of content
 [Link to file b second header](./file.b.md#this-is-the-second-header-for-file-b)
 
 [Link to file b third header](./file.b.md#this-is-the-third-header-for-file-b)
+
+[Test Link to file b](./file.b.md#x4dodelBx002ex70ackage-package)
 
 and a little more content
 
@@ -64,15 +68,25 @@ And some more content down below
 
 And some more content down below
 
-And some more content down below
+<!--
+#x4dixinclassx002ex70eight-property
+#### &#x4d;ixinClass&#x002e;&#x70;Eight property
 
-And some more content down below
+#x4dodelAx002ex70ackage-package
+#### &#x4d;odelA&#x002e;&#x70;ackage package
+-->
 
-And some more content down below
+#### &#x4d;odelA&#x002e;&#x70;ackage package
 
-And some more content down below
+real test content
 
-And some more content down below
+real test content
+
+real test content
+
+real test content
+
+real test content
 
 ### This is the third header for file b
 
