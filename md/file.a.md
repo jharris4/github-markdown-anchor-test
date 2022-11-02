@@ -42,7 +42,13 @@ a bunch of content
 a bunch of content
 a bunch of content
 
-[Link to file b first header](./file.b.md/this-is-the-first-header-for-file-b)
+<b>current</b>
+[Link to file a first header](#this-is-the-first-header-for-file-a)
+[Link to file a second header](#this-is-the-second-header-for-file-a)
+
+<b>other</b>
+[Link to file b first header](./file.b.md#this-is-the-first-header-for-file-b)
+[Link to file b second header](./file.b.md#this-is-the-second-header-for-file-b)
 
 ## This is the second header for file a
 
