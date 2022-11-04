@@ -5,6 +5,12 @@
 [link to end](#end)
 <a name="start"></a>
 
+<a name="_underscore"></a>
+<a name="$dollarsign"></a>
+<a name="_underscore_2"></a>
+<a name="$dollarsign_2"></a>
+<a name="@scope/package"></a>
+
 a bunch of content
 
 a bunch of content
@@ -146,6 +152,16 @@ This is content at the bottom
 This is content at the bottom
 
 This is content at the bottom
+
+[_underscore](#_underscore)
+
+[$dollarsign](#$dollarsign)
+
+[_underscore_2](#_underscore_2)
+
+[$dollarsign_2](#$dollarsign_2)
+
+[@scope/package](#@scope/package)
 
 This is content at the bottom
 
